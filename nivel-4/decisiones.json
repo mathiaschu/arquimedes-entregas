@@ -1,0 +1,122 @@
+[
+  {
+    "cliente": "C318",
+    "decision": "entrega",
+    "fundamento": "Comedor Nacho (comedor): 40 personas, 0 h de reserva, sin alternativa hoy, pago contra entrega, 12 meses de cliente. Nivel 1 (riesgo hoy): sin alternativa y con reservas menores a 24 h, no llega al próximo reparto. Entra en un plan factible: P3-018 va en V2, descarga desde 11:35:50 dentro de su franja 10:30-14:15, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C331",
+    "decision": "entrega",
+    "fundamento": "Comedor Fran (comedor): 40 personas, 0 h de reserva, sin alternativa hoy, pago contra entrega, 12 meses de cliente. Nivel 1 (riesgo hoy): sin alternativa y con reservas menores a 24 h, no llega al próximo reparto. Entra en un plan factible: P3-031 va en V2, descarga desde 11:47:50 dentro de su franja 10:30-14:15, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C317",
+    "decision": "entrega",
+    "fundamento": "Residencia Eva (geriatrico): 32 personas, 0 h de reserva, sin alternativa hoy, pago anticipado, 48 meses de cliente. Nivel 1 (riesgo hoy): sin alternativa y con reservas menores a 24 h, no llega al próximo reparto. Entra en un plan factible: P3-017 va en V1, descarga desde 11:35:15 dentro de su franja 10:15-14:00, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C329",
+    "decision": "entrega",
+    "fundamento": "Residencia Alma (geriatrico): 32 personas, 0 h de reserva, sin alternativa hoy, pago anticipado, 48 meses de cliente. Nivel 1 (riesgo hoy): sin alternativa y con reservas menores a 24 h, no llega al próximo reparto. Entra en un plan factible: P3-029 va en V1, descarga desde 11:47:15 dentro de su franja 10:15-14:00, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C324",
+    "decision": "entrega",
+    "fundamento": "La esquina de Iván (comercio): 10 personas, 6 h de reserva, sin alternativa hoy, pago anticipado, 120 meses de cliente. Nivel 1 (riesgo hoy): sin alternativa y con reservas menores a 24 h, no llega al próximo reparto. Entra en un plan factible: P3-024 va en V1, descarga desde 12:26:03 dentro de su franja 10:10-13:55, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C339",
+    "decision": "entrega",
+    "fundamento": "La esquina de Valen (comercio): 10 personas, 6 h de reserva, sin alternativa hoy, pago anticipado, 120 meses de cliente. Nivel 1 (riesgo hoy): sin alternativa y con reservas menores a 24 h, no llega al próximo reparto. Entra en un plan factible: P3-039 va en V1, descarga desde 12:14:03 dentro de su franja 10:10-13:55, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C326",
+    "decision": "entrega",
+    "fundamento": "Comedor Clau (comedor): 26 personas, 24 h de reserva, con alternativa hoy, pago contra entrega, 24 meses de cliente. Nivel 2: comedor con reservas de 24 h, sin margen si se posterga. Entra en un plan factible: P3-026 va en V1, descarga desde 12:51:50 dentro de su franja 10:00-14:25, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C340",
+    "decision": "entrega",
+    "fundamento": "Comedor Rosa (comedor): 26 personas, 24 h de reserva, con alternativa hoy, pago contra entrega, 24 meses de cliente. Nivel 2: comedor con reservas de 24 h, sin margen si se posterga. Entra en un plan factible: P3-040 va en V1, descarga desde 13:03:50 dentro de su franja 10:00-14:25, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C338",
+    "decision": "entrega",
+    "fundamento": "La esquina de Julia (comercio): 24 personas, 36 h de reserva, con alternativa hoy, pago anticipado, 42 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 9 de 24 según reservas, personas, pago anticipado y antigüedad. Entra en un plan factible: P3-038 va en V2, descarga desde 12:27:36 dentro de su franja 10:05-14:35, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C320",
+    "decision": "entrega",
+    "fundamento": "La esquina de Tino (comercio): 24 personas, 36 h de reserva, con alternativa hoy, pago anticipado, 18 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 10 de 24 según reservas, personas, pago anticipado y antigüedad. Entra en un plan factible: P3-020 va en V1, descarga desde 12:01:35 dentro de su franja 10:20-14:10, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C332",
+    "decision": "entrega",
+    "fundamento": "La esquina de Cata (comercio): 24 personas, 36 h de reserva, con alternativa hoy, pago anticipado, 18 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 11 de 24 según reservas, personas, pago anticipado y antigüedad. Entra en un plan factible: P3-032 va en V2, descarga desde 12:40:36 dentro de su franja 10:05-14:55, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C323",
+    "decision": "entrega",
+    "fundamento": "La esquina de Pepa (comercio): 24 personas, 36 h de reserva, con alternativa hoy, pago contra entrega, 54 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 12 de 24 según reservas, personas, pago anticipado y antigüedad. Entra en un plan factible: P3-023 va en V2, descarga desde 12:02:08 dentro de su franja 12:00-15:00, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C335",
+    "decision": "entrega",
+    "fundamento": "La esquina de Omar (comercio): 24 personas, 36 h de reserva, con alternativa hoy, pago contra entrega, 54 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 13 de 24 según reservas, personas, pago anticipado y antigüedad. Entra en un plan factible: P3-035 va en V2, descarga desde 13:07:35 dentro de su franja 10:15-14:50, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C328",
+    "decision": "entrega",
+    "fundamento": "La esquina de Vicky (comercio): 18 personas, 36 h de reserva, con alternativa hoy, pago anticipado, 18 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 14 de 24 según reservas, personas, pago anticipado y antigüedad. Entra en un plan factible: P3-028 va en V2, descarga desde 12:15:04 dentro de su franja 10:45-14:50, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C325",
+    "decision": "entrega",
+    "fundamento": "La esquina de Ari (comercio): 18 personas, 36 h de reserva, con alternativa hoy, pago contra entrega, 30 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 15 de 24 según reservas, personas, pago anticipado y antigüedad. Entra en un plan factible: P3-025 va en V2, descarga desde 12:54:24 dentro de su franja 10:30-14:10, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C330",
+    "decision": "entrega",
+    "fundamento": "La esquina de Leo (comercio): 12 personas, 36 h de reserva, con alternativa hoy, pago anticipado, 42 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 16 de 24 según reservas, personas, pago anticipado y antigüedad. Entra en un plan factible: P3-030 va en V1, descarga desde 12:38:29 dentro de su franja 10:35-14:35, con regreso al depósito antes de las 13:35."
+  },
+  {
+    "cliente": "C333",
+    "decision": "posterga",
+    "fundamento": "Almacén El Resorte (comercio): 12 personas, 36 h de reserva, con alternativa hoy, pago anticipado, 30 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 17 de 24 según reservas, personas, pago anticipado y antigüedad. Los 16 pedidos de mayor prioridad ya ocupan los 640 kg de V1 y V2 (40 kg cada uno), así que P3-033 no entra en ningún plan factible hoy. Con sus reservas y su alternativa puede esperar: se le avisa hoy y va completo en el primer reparto siguiente, antes que los pedidos nuevos."
+  },
+  {
+    "cliente": "C336",
+    "decision": "posterga",
+    "fundamento": "La esquina de Elisa (comercio): 12 personas, 36 h de reserva, con alternativa hoy, pago anticipado, 18 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 18 de 24 según reservas, personas, pago anticipado y antigüedad. Los 16 pedidos de mayor prioridad ya ocupan los 640 kg de V1 y V2 (40 kg cada uno), así que P3-036 no entra en ningún plan factible hoy. Con sus reservas y su alternativa puede esperar: se le avisa hoy y va completo en el primer reparto siguiente, antes que los pedidos nuevos."
+  },
+  {
+    "cliente": "C327",
+    "decision": "posterga",
+    "fundamento": "La esquina de Mauro (comercio): 12 personas, 36 h de reserva, con alternativa hoy, pago contra entrega, 54 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 19 de 24 según reservas, personas, pago anticipado y antigüedad. Los 16 pedidos de mayor prioridad ya ocupan los 640 kg de V1 y V2 (40 kg cada uno), así que P3-027 no entra en ningún plan factible hoy. Con sus reservas y su alternativa puede esperar: se le avisa hoy y va completo en el primer reparto siguiente, antes que los pedidos nuevos."
+  },
+  {
+    "cliente": "C321",
+    "decision": "posterga",
+    "fundamento": "La esquina de Belu (comercio): 12 personas, 36 h de reserva, con alternativa hoy, pago contra entrega, 30 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 20 de 24 según reservas, personas, pago anticipado y antigüedad. Los 16 pedidos de mayor prioridad ya ocupan los 640 kg de V1 y V2 (40 kg cada uno), así que P3-021 no entra en ningún plan factible hoy. Además, su franja cierra a las 12:00. Con sus reservas y su alternativa puede esperar: se le avisa hoy y va completo en el primer reparto siguiente, antes que los pedidos nuevos."
+  },
+  {
+    "cliente": "C322",
+    "decision": "posterga",
+    "fundamento": "Casa de Susi (hogar): 4 personas, 36 h de reserva, con alternativa hoy, pago contra entrega, 6 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 21 de 24 según reservas, personas, pago anticipado y antigüedad. Los 16 pedidos de mayor prioridad ya ocupan los 640 kg de V1 y V2 (40 kg cada uno), así que P3-022 no entra en ningún plan factible hoy. Con sus reservas y su alternativa puede esperar: se le avisa hoy y va completo en el primer reparto siguiente, antes que los pedidos nuevos."
+  },
+  {
+    "cliente": "C337",
+    "decision": "posterga",
+    "fundamento": "Casa de Amalia (hogar): 4 personas, 36 h de reserva, con alternativa hoy, pago contra entrega, 6 meses de cliente. Nivel 3: tiene alternativa hoy y 36 h de reserva; queda en el puesto 22 de 24 según reservas, personas, pago anticipado y antigüedad. Los 16 pedidos de mayor prioridad ya ocupan los 640 kg de V1 y V2 (40 kg cada uno), así que P3-037 no entra en ningún plan factible hoy. Con sus reservas y su alternativa puede esperar: se le avisa hoy y va completo en el primer reparto siguiente, antes que los pedidos nuevos."
+  },
+  {
+    "cliente": "C319",
+    "decision": "posterga",
+    "fundamento": "La esquina de Dora (comercio): 18 personas, 48 h de reserva, con alternativa hoy, pago anticipado, 96 meses de cliente. Nivel 3: tiene alternativa hoy y 48 h de reserva; queda en el puesto 23 de 24 según reservas, personas, pago anticipado y antigüedad. Los 16 pedidos de mayor prioridad ya ocupan los 640 kg de V1 y V2 (40 kg cada uno), así que P3-019 no entra en ningún plan factible hoy. Con sus reservas y su alternativa puede esperar: se le avisa hoy y va completo en el primer reparto siguiente, antes que los pedidos nuevos."
+  },
+  {
+    "cliente": "C334",
+    "decision": "posterga",
+    "fundamento": "La esquina de Inés (comercio): 18 personas, 48 h de reserva, con alternativa hoy, pago anticipado, 96 meses de cliente. Nivel 3: tiene alternativa hoy y 48 h de reserva; queda en el puesto 24 de 24 según reservas, personas, pago anticipado y antigüedad. Los 16 pedidos de mayor prioridad ya ocupan los 640 kg de V1 y V2 (40 kg cada uno), así que P3-034 no entra en ningún plan factible hoy. Con sus reservas y su alternativa puede esperar: se le avisa hoy y va completo en el primer reparto siguiente, antes que los pedidos nuevos."
+  }
+]

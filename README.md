@@ -8,6 +8,7 @@ Entregas del ejercicio de La Palanca (ciudad ficticia de Siracusa). Todos los da
 | 2 | [`nivel-2/rutas.json`](nivel-2/rutas.json) y [`nivel-2/codigo/`](nivel-2/codigo/) | Entregado |
 | 3 | [`nivel-3/pedidos.json`](nivel-3/pedidos.json), [`nivel-3/rutas.json`](nivel-3/rutas.json) y [`nivel-3/codigo/`](nivel-3/codigo/) | Entregado |
 | 3 | [`nivel-3/pedidos.json`](nivel-3/pedidos.json) y [`nivel-3/rutas.json`](nivel-3/rutas.json) | Entregado |
+| 4 | [`nivel-4/criterio.md`](nivel-4/criterio.md), [`nivel-4/decisiones.json`](nivel-4/decisiones.json) y [`nivel-4/rutas.json`](nivel-4/rutas.json) | Entregado |
 
 ## Nivel 1: del WhatsApp al pedido
 

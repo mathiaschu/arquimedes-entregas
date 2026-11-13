@@ -1,0 +1,82 @@
+{
+  "rutas": [
+    {
+      "vehiculo": "V1",
+      "salida": "11:35:00",
+      "paradas": [
+        {
+          "pedido": "P3-017",
+          "inicio": "11:35:15"
+        },
+        {
+          "pedido": "P3-029",
+          "inicio": "11:47:15"
+        },
+        {
+          "pedido": "P3-020",
+          "inicio": "12:01:35"
+        },
+        {
+          "pedido": "P3-039",
+          "inicio": "12:14:03"
+        },
+        {
+          "pedido": "P3-024",
+          "inicio": "12:26:03"
+        },
+        {
+          "pedido": "P3-030",
+          "inicio": "12:38:29"
+        },
+        {
+          "pedido": "P3-026",
+          "inicio": "12:51:50"
+        },
+        {
+          "pedido": "P3-040",
+          "inicio": "13:03:50"
+        }
+      ],
+      "regreso": "13:16:16"
+    },
+    {
+      "vehiculo": "V2",
+      "salida": "11:35:00",
+      "paradas": [
+        {
+          "pedido": "P3-018",
+          "inicio": "11:35:50"
+        },
+        {
+          "pedido": "P3-031",
+          "inicio": "11:47:50"
+        },
+        {
+          "pedido": "P3-023",
+          "inicio": "12:02:08"
+        },
+        {
+          "pedido": "P3-028",
+          "inicio": "12:15:04"
+        },
+        {
+          "pedido": "P3-038",
+          "inicio": "12:27:36"
+        },
+        {
+          "pedido": "P3-032",
+          "inicio": "12:40:36"
+        },
+        {
+          "pedido": "P3-025",
+          "inicio": "12:54:24"
+        },
+        {
+          "pedido": "P3-035",
+          "inicio": "13:07:35"
+        }
+      ],
+      "regreso": "13:21:27"
+    }
+  ]
+}

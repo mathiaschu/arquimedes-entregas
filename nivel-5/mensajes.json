@@ -1,0 +1,194 @@
+[
+  {
+    "cliente": "C317",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "11:35:00",
+      "hasta": "12:05:00"
+    },
+    "texto": "Hola Eva, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-017 sale igual hoy y completo (2 cajones de tomate redondo) a Valdoria 2610. Lo vas a tener entregado entre las 11:35 y las 12:05, dentro del horario que nos pediste. El pedido y el envío ya están pagos, no tenés que abonar nada al recibir. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C318",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "11:35:00",
+      "hasta": "12:05:00"
+    },
+    "texto": "Hola Nacho, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-018 sale igual hoy y completo (1 cajón de tomate redondo y 4 bolsas de 5 kg de papa blanca) a Wendarpa 2710. Lo vas a tener entregado entre las 11:35 y las 12:05, dentro del horario que nos pediste. Se abona al recibir: $64.000 de mercadería más $1.800 de envío, $65.800 en total. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C319",
+    "decision": "posterga",
+    "promesa": null,
+    "texto": "Hola Dora, te escribimos de La Palanca. Hoy se nos rompió una de las camionetas y no vamos a poder llevarte el pedido P3-019 (1 cajón de tomate redondo, 3 bolsas de 5 kg de batata y 1 bolsa de 5 kg de papa blanca). Es una falla nuestra, no tuya, y te pedimos disculpas. Con las dos camionetas que quedan priorizamos a quienes se quedaban sin abastecimiento hoy, como geriátricos y comedores sin reservas. Tu pedido queda separado y completo, y sale en el próximo reparto antes que los pedidos nuevos; todavía no tenemos fecha ni horario, te los confirmamos apenas los tengamos. Como ya pagaste el envío, te corresponde la devolución de esos $1.800; la gestionamos hoy con el dueño y te avisamos cuando esté hecha. Tu mercadería ($64.000) ya está paga y queda a tu nombre. Si preferís no esperar y abastecerte por otro lado, avisanos y gestionamos con el dueño la devolución de ese importe; requiere una conciliación, así que te confirmamos cuando esté hecha. Si en lugar de los $1.800 preferís un vale por 2 kg de banana para retirar en el local el 15/11 entre las 9:00 y las 18:00, respondé este mensaje diciendo que lo querés. Si no nos contestás, te queda la devolución o bonificación en dinero."
+  },
+  {
+    "cliente": "C320",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "12:01:00",
+      "hasta": "12:30:00"
+    },
+    "texto": "Hola Tino, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-020 sale igual hoy y completo (8 bolsas de 5 kg de papa blanca) a Wendarpa 3110. Lo vas a tener entregado entre las 12:01 y las 12:30, dentro del horario que nos pediste. El pedido y el envío ya están pagos, no tenés que abonar nada al recibir. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C321",
+    "decision": "posterga",
+    "promesa": null,
+    "texto": "Hola Belu, te escribimos de La Palanca. Hoy se nos rompió una de las camionetas y no vamos a poder llevarte el pedido P3-021 (1 cajón de manzana, 5 maple de 30 de huevos, 2 bolsas de 5 kg de papa blanca y 3 kg de banana). Es una falla nuestra, no tuya, y te pedimos disculpas. Sabemos que tu horario de hoy cerraba a las 12:00, por eso tampoco llegábamos. Con las dos camionetas que quedan priorizamos a quienes se quedaban sin abastecimiento hoy, como geriátricos y comedores sin reservas. Tu pedido queda separado y completo, y sale en el próximo reparto antes que los pedidos nuevos; todavía no tenemos fecha ni horario, te los confirmamos apenas los tengamos. Como el envío todavía no estaba cobrado, te bonificamos esos $1.800: cuando lo recibas no lo pagás. La mercadería se abona recién cuando la recibas. Si en lugar de los $1.800 preferís un vale por 2 kg de banana para retirar en el local el 15/11 entre las 9:00 y las 18:00, respondé este mensaje diciendo que lo querés. Si no nos contestás, te queda la devolución o bonificación en dinero."
+  },
+  {
+    "cliente": "C322",
+    "decision": "posterga",
+    "promesa": null,
+    "texto": "Hola Susi, te escribimos de La Palanca. Hoy se nos rompió una de las camionetas y no vamos a poder llevarte el pedido P3-022 (1 cajón de tomate redondo, 3 bolsas de 5 kg de papa blanca y 1 bolsa de 5 kg de batata). Es una falla nuestra, no tuya, y te pedimos disculpas. Con las dos camionetas que quedan priorizamos a quienes se quedaban sin abastecimiento hoy, como geriátricos y comedores sin reservas. Tu pedido queda separado y completo, y sale en el próximo reparto antes que los pedidos nuevos; todavía no tenemos fecha ni horario, te los confirmamos apenas los tengamos. Como el envío todavía no estaba cobrado, te bonificamos esos $1.800: cuando lo recibas no lo pagás. La mercadería se abona recién cuando la recibas. Si en lugar de los $1.800 preferís un vale por 2 kg de banana para retirar en el local el 15/11 entre las 9:00 y las 18:00, respondé este mensaje diciendo que lo querés. Si no nos contestás, te queda la devolución o bonificación en dinero."
+  },
+  {
+    "cliente": "C323",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "12:02:00",
+      "hasta": "12:30:00"
+    },
+    "texto": "Hola Pepa, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-023 sale igual hoy y completo (2 cajones de tomate redondo) a Zafralia 2110. Lo vas a tener entregado entre las 12:02 y las 12:30, dentro del horario que nos pediste. Se abona al recibir: $66.000 de mercadería más $1.800 de envío, $67.800 en total. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C324",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "12:26:00",
+      "hasta": "12:55:00"
+    },
+    "texto": "Hola Iván, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-024 sale igual hoy y completo (6 bolsas de 5 kg de papa blanca y 2 bolsas de 5 kg de batata) a Umbralia 3110. Lo vas a tener entregado entre las 12:26 y las 12:55, dentro del horario que nos pediste. El pedido y el envío ya están pagos, no tenés que abonar nada al recibir. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C325",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "12:54:00",
+      "hasta": "13:25:00"
+    },
+    "texto": "Hola Ari, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-025 sale igual hoy y completo (2 cajones de lechuga, 1 cajón de tomate redondo y 4 kg de banana) a Orvencia 2010. Lo vas a tener entregado entre las 12:54 y las 13:25, dentro del horario que nos pediste. Se abona al recibir: $42.000 de mercadería más $1.800 de envío, $43.800 en total. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C326",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "12:51:00",
+      "hasta": "13:20:00"
+    },
+    "texto": "Hola Clau, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-026 sale igual hoy y completo (1 cajón de tomate redondo, 2 bolsas de 5 kg de papa blanca y 2 bolsas de 5 kg de batata) a Serralvia 2610. Lo vas a tener entregado entre las 12:51 y las 13:20, dentro del horario que nos pediste. Se abona al recibir: $64.000 de mercadería más $1.800 de envío, $65.800 en total. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C327",
+    "decision": "posterga",
+    "promesa": null,
+    "texto": "Hola Mauro, te escribimos de La Palanca. Hoy se nos rompió una de las camionetas y no vamos a poder llevarte el pedido P3-027 (2 cajones de tomate redondo). Es una falla nuestra, no tuya, y te pedimos disculpas. Con las dos camionetas que quedan priorizamos a quienes se quedaban sin abastecimiento hoy, como geriátricos y comedores sin reservas. Tu pedido queda separado y completo, y sale en el próximo reparto antes que los pedidos nuevos; todavía no tenemos fecha ni horario, te los confirmamos apenas los tengamos. Como el envío todavía no estaba cobrado, te bonificamos esos $1.800: cuando lo recibas no lo pagás. La mercadería se abona recién cuando la recibas. Si en lugar de los $1.800 preferís un vale por 2 kg de banana para retirar en el local el 15/11 entre las 9:00 y las 18:00, respondé este mensaje diciendo que lo querés. Si no nos contestás, te queda la devolución o bonificación en dinero."
+  },
+  {
+    "cliente": "C328",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "12:15:00",
+      "hasta": "12:45:00"
+    },
+    "texto": "Hola Vicky, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-028 sale igual hoy y completo (8 bolsas de 5 kg de papa blanca) a Wendarpa 2010. Lo vas a tener entregado entre las 12:15 y las 12:45, dentro del horario que nos pediste. El pedido y el envío ya están pagos, no tenés que abonar nada al recibir. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C329",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "11:47:00",
+      "hasta": "12:15:00"
+    },
+    "texto": "Hola Alma, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-029 sale igual hoy y completo (8 bolsas de 5 kg de papa blanca) a Valdoria 2610. Lo vas a tener entregado entre las 11:47 y las 12:15, dentro del horario que nos pediste. El pedido y el envío ya están pagos, no tenés que abonar nada al recibir. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C330",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "12:38:00",
+      "hasta": "13:10:00"
+    },
+    "texto": "Hola Leo, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-030 sale igual hoy y completo (8 bolsas de 5 kg de papa blanca) a Serralvia 3110. Lo vas a tener entregado entre las 12:38 y las 13:10, dentro del horario que nos pediste. El pedido y el envío ya están pagos, no tenés que abonar nada al recibir. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C331",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "11:47:00",
+      "hasta": "12:15:00"
+    },
+    "texto": "Hola Fran, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-031 sale igual hoy y completo (7 bolsas de 5 kg de papa blanca y 1 bolsa de 5 kg de batata) a Wendarpa 2710. Lo vas a tener entregado entre las 11:47 y las 12:15, dentro del horario que nos pediste. Se abona al recibir: $64.000 de mercadería más $1.800 de envío, $65.800 en total. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C332",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "12:40:00",
+      "hasta": "13:10:00"
+    },
+    "texto": "Hola Cata, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-032 sale igual hoy y completo (8 bolsas de 5 kg de papa blanca) a Umbralia 2010. Lo vas a tener entregado entre las 12:40 y las 13:10, dentro del horario que nos pediste. El pedido y el envío ya están pagos, no tenés que abonar nada al recibir. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C333",
+    "decision": "posterga",
+    "promesa": null,
+    "texto": "Hola Bruno, te escribimos de La Palanca. Hoy se nos rompió una de las camionetas y no vamos a poder llevarte el pedido P3-033 (2 cajones de tomate redondo). Es una falla nuestra, no tuya, y te pedimos disculpas. Sobre el exprés: en tu operación LP-1217 figura envío estándar, sin cargo exprés; te respondimos aparte con el detalle y, si tenés un comprobante distinto, mandánoslo y lo revisamos. Con las dos camionetas que quedan priorizamos a quienes se quedaban sin abastecimiento hoy, como geriátricos y comedores sin reservas. Tu pedido queda separado y completo, y sale en el próximo reparto antes que los pedidos nuevos; todavía no tenemos fecha ni horario, te los confirmamos apenas los tengamos. Como ya pagaste el envío, te corresponde la devolución de esos $1.800; la gestionamos hoy con el dueño y te avisamos cuando esté hecha. Tu mercadería ($98.000) ya está paga y queda a tu nombre. Si preferís no esperar y abastecerte por otro lado, avisanos y gestionamos con el dueño la devolución de ese importe; requiere una conciliación, así que te confirmamos cuando esté hecha. Si en lugar de los $1.800 preferís un vale por 2 kg de banana para retirar en el local el 15/11 entre las 9:00 y las 18:00, respondé este mensaje diciendo que lo querés. Si no nos contestás, te queda la devolución o bonificación en dinero."
+  },
+  {
+    "cliente": "C334",
+    "decision": "posterga",
+    "promesa": null,
+    "texto": "Hola Inés, te escribimos de La Palanca. Hoy se nos rompió una de las camionetas y no vamos a poder llevarte el pedido P3-034 (6 bolsas de 5 kg de papa blanca y 2 bolsas de 5 kg de batata). Es una falla nuestra, no tuya, y te pedimos disculpas. Con las dos camionetas que quedan priorizamos a quienes se quedaban sin abastecimiento hoy, como geriátricos y comedores sin reservas. Tu pedido queda separado y completo, y sale en el próximo reparto antes que los pedidos nuevos; todavía no tenemos fecha ni horario, te los confirmamos apenas los tengamos. Como ya pagaste el envío, te corresponde la devolución de esos $1.800; la gestionamos hoy con el dueño y te avisamos cuando esté hecha. Tu mercadería ($64.000) ya está paga y queda a tu nombre. Si preferís no esperar y abastecerte por otro lado, avisanos y gestionamos con el dueño la devolución de ese importe; requiere una conciliación, así que te confirmamos cuando esté hecha. Si en lugar de los $1.800 preferís un vale por 2 kg de banana para retirar en el local el 15/11 entre las 9:00 y las 18:00, respondé este mensaje diciendo que lo querés. Si no nos contestás, te queda la devolución o bonificación en dinero."
+  },
+  {
+    "cliente": "C335",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "13:07:00",
+      "hasta": "13:35:00"
+    },
+    "texto": "Hola Omar, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-035 sale igual hoy y completo (2 cajones de tomate redondo) a Rieluma 2210. Lo vas a tener entregado entre las 13:07 y las 13:35, dentro del horario que nos pediste. Se abona al recibir: $42.000 de mercadería más $1.800 de envío, $43.800 en total. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C336",
+    "decision": "posterga",
+    "promesa": null,
+    "texto": "Hola Elisa, te escribimos de La Palanca. Hoy se nos rompió una de las camionetas y no vamos a poder llevarte el pedido P3-036 (8 bolsas de 5 kg de papa blanca). Es una falla nuestra, no tuya, y te pedimos disculpas. Con las dos camionetas que quedan priorizamos a quienes se quedaban sin abastecimiento hoy, como geriátricos y comedores sin reservas. Tu pedido queda separado y completo, y sale en el próximo reparto antes que los pedidos nuevos; todavía no tenemos fecha ni horario, te los confirmamos apenas los tengamos. Como ya pagaste el envío, te corresponde la devolución de esos $1.800; la gestionamos hoy con el dueño y te avisamos cuando esté hecha. Tu mercadería ($50.000) ya está paga y queda a tu nombre. Si preferís no esperar y abastecerte por otro lado, avisanos y gestionamos con el dueño la devolución de ese importe; requiere una conciliación, así que te confirmamos cuando esté hecha. Si en lugar de los $1.800 preferís un vale por 2 kg de banana para retirar en el local el 15/11 entre las 9:00 y las 18:00, respondé este mensaje diciendo que lo querés. Si no nos contestás, te queda la devolución o bonificación en dinero."
+  },
+  {
+    "cliente": "C337",
+    "decision": "posterga",
+    "promesa": null,
+    "texto": "Hola Amalia, te escribimos de La Palanca. Hoy se nos rompió una de las camionetas y no vamos a poder llevarte el pedido P3-037 (5 bolsas de 5 kg de papa blanca y 3 bolsas de 5 kg de batata). Es una falla nuestra, no tuya, y te pedimos disculpas. Con las dos camionetas que quedan priorizamos a quienes se quedaban sin abastecimiento hoy, como geriátricos y comedores sin reservas. Tu pedido queda separado y completo, y sale en el próximo reparto antes que los pedidos nuevos; todavía no tenemos fecha ni horario, te los confirmamos apenas los tengamos. Como el envío todavía no estaba cobrado, te bonificamos esos $1.800: cuando lo recibas no lo pagás. La mercadería se abona recién cuando la recibas. Si en lugar de los $1.800 preferís un vale por 2 kg de banana para retirar en el local el 15/11 entre las 9:00 y las 18:00, respondé este mensaje diciendo que lo querés. Si no nos contestás, te queda la devolución o bonificación en dinero."
+  },
+  {
+    "cliente": "C338",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "12:27:00",
+      "hasta": "12:55:00"
+    },
+    "texto": "Hola Julia, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-038 sale igual hoy y completo (8 bolsas de 5 kg de papa blanca) a Wendarpa 1810. Lo vas a tener entregado entre las 12:27 y las 12:55, dentro del horario que nos pediste. El pedido y el envío ya están pagos, no tenés que abonar nada al recibir. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C339",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "12:14:00",
+      "hasta": "12:45:00"
+    },
+    "texto": "Hola Valen, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-039 sale igual hoy y completo (4 bolsas de 5 kg de papa blanca y 4 bolsas de 5 kg de batata) a Umbralia 3110. Lo vas a tener entregado entre las 12:14 y las 12:45, dentro del horario que nos pediste. El pedido y el envío ya están pagos, no tenés que abonar nada al recibir. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  },
+  {
+    "cliente": "C340",
+    "decision": "entrega",
+    "promesa": {
+      "desde": "13:03:00",
+      "hasta": "13:35:00"
+    },
+    "texto": "Hola Rosa, te escribimos de La Palanca. Tuvimos una camioneta fuera de servicio y reorganizamos el reparto de hoy, pero tu pedido P3-040 sale igual hoy y completo (3 bolsas de 5 kg de papa blanca y 5 bolsas de 5 kg de batata) a Serralvia 2610. Lo vas a tener entregado entre las 13:03 y las 13:35, dentro del horario que nos pediste. Se abona al recibir: $64.000 de mercadería más $1.800 de envío, $65.800 en total. Si algo cambia de nuestro lado te avisamos antes. Gracias por la paciencia."
+  }
+]

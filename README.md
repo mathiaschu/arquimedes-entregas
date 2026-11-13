@@ -8,4 +8,4 @@ Entregas del ejercicio de La Palanca (ciudad ficticia de Siracusa). Todos los da
 
 ## Nivel 1: del WhatsApp al pedido
 
-12 pedidos: 9 confirmados y 3 ambiguos (dirección, productos o franja sin resolver, cada uno con su motivo).
+12 pedidos: 8 confirmados y 4 ambiguos (dirección, productos o franja sin resolver, cada uno con su motivo).

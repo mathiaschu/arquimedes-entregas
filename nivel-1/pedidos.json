@@ -102,13 +102,8 @@
   {
     "pedido": "P1-05",
     "cliente": "C105",
-    "estado": "confirmado",
-    "items": [
-      {
-        "producto": "TOM-CJ",
-        "cantidad": 2
-      }
-    ],
+    "estado": "ambiguo",
+    "items": null,
     "direccion": {
       "calle": "Espiruna",
       "altura": 1710,
@@ -118,7 +113,12 @@
       "desde": "10:00:00",
       "hasta": "12:00:00"
     },
-    "motivos": []
+    "motivos": [
+      {
+        "campo": "items",
+        "detalle": "Pide 'dos de tomate' sin decir la unidad: pueden ser dos cajones (la unidad del catálogo), dos kilos o dos tomates sueltos. El cajón de tomate pesa 20 kg, así que la diferencia es grande, y su historial no tiene pedidos de tomate que permitan inferirla."
+      }
+    ]
   },
   {
     "pedido": "P1-06",

@@ -120,7 +120,7 @@
     },
     "franja": {
       "desde": "10:15:00",
-      "hasta": "13:45:00"
+      "hasta": "11:45:00"
     },
     "motivos": []
   },
@@ -410,9 +410,9 @@
       }
     ],
     "direccion": {
-      "calle": "Galdoria",
+      "calle": "Valdoria",
       "altura": 2610,
-      "nodo": 1626
+      "nodo": 1076
     },
     "franja": {
       "desde": "10:15:00",
